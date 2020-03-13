@@ -1,0 +1,11 @@
+The goal of this file is to get you familiar with GiHub workflow.  https://guides.github.com/introduction/flow/
+1. Create your own branch - name it like this - mills_first_branch - except put your own name in there.
+2. Modify this file by answering the question below
+  Mr. Mills - what is you favorite flavor of ice cream?
+  Christian - what is your fastest cross country 5k time?
+  Kane - how many hours a week do you typically work?
+3. Commit the changes to your branch.
+4. Open a PR (pull request)
+  Put ticket in Code review
+  Mr. Mills is merge
+  
